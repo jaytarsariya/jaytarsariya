@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytarsariya&label=Profile%20views&color=0e75b6&style=flat" alt="jaytarsariya" /> </p>
 
-- 🔭 I’m currently working on **web developing**
+- 🔭 I’m currently working on [E-shop](https://my-e-shop-web.onrender.com)
 
-- 🌱 I’m currently learning **node**
+- 🌱 I’m currently learning **JavaScript, node.js, express.js, MongoDB , react.js (Mernstack)**
+
+- 💬 Ask me about **node.js, express.js, MongoDB, postman**
 
 - 📫 How to reach me **jaytarsariya2002@gmail.com**
 
