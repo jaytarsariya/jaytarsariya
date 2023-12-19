@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [E-shop](https://my-e-shop-web.onrender.com)
 
-- 🌱 I’m currently learning **JavaScript, node.js, express.js, MongoDB , react.js (Mernstack)**
+- 🌱 I’m currently learning **JavaScript, node.js, express.js, MongoDB , react.js (Mernstack), TypeScript, Sequelize, Typeorm, PostgreSQL**
 
 - 💬 Ask me about **node.js, express.js, MongoDB, postman**
 
